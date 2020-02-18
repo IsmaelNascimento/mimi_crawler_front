@@ -1,4 +1,4 @@
-# Web Crawler mimi front por Felipe Novaes
+# Mimi Crawler FrontEnd by Felipe Novaes
 
 This project is a frontend for mimi crawler project from [Ismael Nascimento](https://github.com/ismaelnascimento/mimi_crawler_backend)
 
